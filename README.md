@@ -1,2 +1,2 @@
 # flurrty.me
-AI. Twin Generator
+AI Twin Generator
